@@ -37,7 +37,7 @@ variable "type" {
 
 # Key 
 variable "key_name" {
-  default = "ps-Key"
+  default = "Key"
 }
 
 # Instance count
